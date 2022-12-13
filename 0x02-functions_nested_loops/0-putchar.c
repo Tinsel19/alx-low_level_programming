@@ -1,8 +1,8 @@
 #include "main.h"
- /**
-  * main - This code prints string "_putchar" from a character array
-  * Return: 0 on success
-  */
+/**
+ * main - This code prints string _putchar
+ * Return: 0 on success
+ */
 
 int main(void)
 {
